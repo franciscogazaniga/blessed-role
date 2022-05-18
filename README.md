@@ -1,3 +1,3 @@
 # Blessed rolê
 
-Este projeto é um blog que reune conteúdo de viagens, gastronomia e hospedagens.
+Este projeto é um blog desenvolvido em React que reune conteúdo de viagens, gastronomia e hospedagens.
